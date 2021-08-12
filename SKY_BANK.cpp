@@ -343,9 +343,9 @@ int main()
         cout << "***************************************************************" << endl;
         cout << "[1] OPEN A/C" << endl;
         cout << "[2] YOUR A/C DETAILS" << endl;
-	cout << "[3] CHECK BALANCE" << endl;
-	cout << "[4] WITHDRAW CASH" << endl;
-	cout << "[5] DEPOSIT CASH" << endl;
+	    cout << "[3] CHECK BALANCE" << endl;
+	    cout << "[4] WITHDRAW CASH" << endl;
+	    cout << "[5] DEPOSIT CASH" << endl;
         cout << "***************************************************************" << endl;
         cout << "Enter your choice : ";
         cin >> a;
